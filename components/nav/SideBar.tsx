@@ -25,6 +25,7 @@ export const SideBar = () => {
     sections.forEach((section) => observer.observe(section));
   }, []);
 
+ /* removed chatgpt*/
   return (
     <motion.nav
       initial={{ x: -70 }}
