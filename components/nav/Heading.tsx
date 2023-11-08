@@ -45,7 +45,7 @@ export const Heading = () => {
           onClick={handleMobileViewClose}
           ref={toggleref}
         >
-          <nav>Chat_gpt
+          <nav>
             <a
               href="#"
               onClick={() => {
