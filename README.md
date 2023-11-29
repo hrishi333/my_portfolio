@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/hrishi333/vermilion">
+  <a href="https://github.com/hrishi333/my_portfolio">
     <img src="https://github.com/hrishi333/Vermilion/assets/95211406/92e59bba-4ace-4a4a-9530-d964aad91cc6" alt="Logo" width="120px" height="100px">
   </a>
 <br/>
-  <h3 align="center">Vermilion</h3>
+  <h3 align="center">My Portfolio</h3>
 
   <p align="center">
     A NextJs portfolio website with stunning animation
@@ -12,9 +12,9 @@
     <br/>
     <a href="https://hrishi333.vercel.app/">View Demo</a>
     .
-    <a href="https://github.com/hrishi333/vermilion/issues">Report Bug</a>
+    <a href="https://github.com/hrishi333/my_portfolio/issues">Report Bug</a>
     .
-    <a href="https://github.com/hrishi333/vermilion/issues">Request Feature</a>
+    <a href="https://github.com/hrishi333/my_portfolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -64,7 +64,7 @@ Vermilion is built using upto date technology like NEXTJS SCSS TS  Framer-motion
 
 ### Installation
 
-![envpastejpg](https://github.com/hrishi333/vermilion/assets/95211406/eda353d1-1f42-475b-86ec-5191cd05e4f9)
+![envpastejpg](https://github.com/hrishi333/my_portfolio/assets/95211406/eda353d1-1f42-475b-86ec-5191cd05e4f9)
 
 create an .env.local file in root directory 
 <br/>
@@ -95,17 +95,17 @@ git clone https://github.com/hrishi333/vermilion
 (get enviroment variables from emailjs)
 * ## Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhrishi333%2Fvermilion)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhrishi333%2Fmy_portfolio
 <br/>
 <br/>
 * ## Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/hrishi333/vermilion)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/hrishi333/my_portfolio)
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/hrishi333/vermilion/issues) to discuss it
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/hrishi333/my_portfolio/issues) to discuss it
 
 * Please make sure you check your spelling and grammar.
 
@@ -122,7 +122,7 @@ Wanna contribute to Vermilion ?
 
 ## Raising an issue
 
-If you're experiencing any problems with  Vermilion, please be sure to review our [issue template](https://github.com/hrishi333/vermilion/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
+If you're experiencing any problems with  Vermilion, please be sure to review our [issue template](https://github.com/hrishi333/my_portfolio/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
 
 We kindly ask that you provide as much detail as possible when submitting an issue, including steps to reproduce the problem, any error messages that you have seen, and any other relevant information. This will help us to identify and fix the issue more quickly.
 
@@ -131,7 +131,7 @@ Thank you for your cooperation, and we look forward to hearing from you!
 
 ## License
 
-Distributed under the MIT License . See [LICENSE](https://github.com/hrishi333/vermilion/blob/main/LICENSE) for more information.
+Distributed under the MIT License . See [LICENSE](https://github.com/hrishi333/my_portfolio/blob/main/LICENSE) for more information.
 
 
 
