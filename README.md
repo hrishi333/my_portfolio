@@ -77,10 +77,10 @@ NEXT_PUBLIC_PUBLIC_KEY=  Your emailjs PUBLIC_KEY
 <h2>Get api keys from <a href="https://www.emailjs.com/">EmailJs</a></h2>
 
 ```sh
-git clone https://github.com/hrishi333/vermilion
+git clone https://github.com/hrishi333/my_portfolio
  ```
  ```
-  cd vermilion
+  cd my_portfolio
   ```
   ```
   npm install
